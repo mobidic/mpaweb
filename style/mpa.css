@@ -66,3 +66,6 @@ body, html {
 .w3-wide {
 	letter-spacing: 8px;
 }
+
+.w3-san-marino,.w3-hover-san-marino:hover{color:#fff!important;background-color:#446CB3!important}
+.w3-shakespeare,.w3-hover-shakespeare:hover{color:#fff!important;background-color:#52B3D9!important}
